@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="AdminView\BookingDetailsWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AdminView\BookingReservationManagement.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AdminView\CustomerManagement.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AdminView\Report.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AdminView\RoomManagement.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AdminView\WindowAdmin.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="CustomerView\History.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="CustomerView\Profile.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="CustomerView\WindowCustomer.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="AdminView\BookingDetailsWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AdminView\BookingReservationManagement.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AdminView\CustomerManagement.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AdminView\RoomManagement.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AdminView\WindowAdmin.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="CustomerView\History.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="CustomerView\Profile.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="CustomerView\WindowCustomer.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="WindowLogin.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

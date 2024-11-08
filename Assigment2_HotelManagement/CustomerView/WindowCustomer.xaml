@@ -1,0 +1,47 @@
+﻿<Window x:Class="Assigment2_HotelManagement.CustomerView.WindowCustomer"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Assigment2_HotelManagement.CustomerView"
+        mc:Ignorable="d"
+        Title="WindowCustomer" Height="450" Width="800" WindowStartupLocation="CenterScreen">
+    <Grid>
+
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition Height="0*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="211*" />
+            <ColumnDefinition Width="189*" />
+        </Grid.ColumnDefinitions>
+
+
+
+
+        <TabControl Grid.ColumnSpan="2">
+            <TabItem Header="Manage">
+                <Menu>
+                    <MenuItem Header="Profile" Click="MenuItem_Click"/>
+                    <MenuItem Header="Booking Reservation History" Click="MenuItem_Click_1"/>
+                    <MenuItem Header="Logout" Click="MenuItem_Click_2"/>
+                </Menu>
+            </TabItem>
+
+
+        </TabControl>
+
+        <Frame x:Name="frCustomer"
+           Margin="0,58,0,0"
+           NavigationUIVisibility="Hidden"
+           Grid.ColumnSpan="2">
+            <Frame.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF34A0CB" />
+                    <GradientStop Color="#FFF9BBB5" Offset="1" />
+                </LinearGradientBrush>
+            </Frame.Background>
+        </Frame>
+    </Grid>
+</Window>

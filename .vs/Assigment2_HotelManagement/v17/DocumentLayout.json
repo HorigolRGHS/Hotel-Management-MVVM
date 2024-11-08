@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\R.G.H.S\\Downloads\\Assigment2_HotelManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D342DBF8-17AF-4210-9039-4540FD6F5D50}|Assigment2_HotelManagement\\Assigment2_HotelManagement.csproj|c:\\users\\r.g.h.s\\downloads\\assigment2_hotelmanagement\\assigment2_hotelmanagement\\viewmodels\\bookingreservationmanagementviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D342DBF8-17AF-4210-9039-4540FD6F5D50}|Assigment2_HotelManagement\\Assigment2_HotelManagement.csproj|solutionrelative:assigment2_hotelmanagement\\viewmodels\\bookingreservationmanagementviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D342DBF8-17AF-4210-9039-4540FD6F5D50}|Assigment2_HotelManagement\\Assigment2_HotelManagement.csproj|c:\\users\\r.g.h.s\\downloads\\assigment2_hotelmanagement\\assigment2_hotelmanagement\\adminview\\bookingreservationmanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D342DBF8-17AF-4210-9039-4540FD6F5D50}|Assigment2_HotelManagement\\Assigment2_HotelManagement.csproj|solutionrelative:assigment2_hotelmanagement\\adminview\\bookingreservationmanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D342DBF8-17AF-4210-9039-4540FD6F5D50}|Assigment2_HotelManagement\\Assigment2_HotelManagement.csproj|c:\\users\\r.g.h.s\\downloads\\assigment2_hotelmanagement\\assigment2_hotelmanagement\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D342DBF8-17AF-4210-9039-4540FD6F5D50}|Assigment2_HotelManagement\\Assigment2_HotelManagement.csproj|solutionrelative:assigment2_hotelmanagement\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D342DBF8-17AF-4210-9039-4540FD6F5D50}|Assigment2_HotelManagement\\Assigment2_HotelManagement.csproj|c:\\users\\r.g.h.s\\downloads\\assigment2_hotelmanagement\\assigment2_hotelmanagement\\windowlogin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D342DBF8-17AF-4210-9039-4540FD6F5D50}|Assigment2_HotelManagement\\Assigment2_HotelManagement.csproj|solutionrelative:assigment2_hotelmanagement\\windowlogin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D342DBF8-17AF-4210-9039-4540FD6F5D50}|Assigment2_HotelManagement\\Assigment2_HotelManagement.csproj|c:\\users\\r.g.h.s\\downloads\\assigment2_hotelmanagement\\assigment2_hotelmanagement\\windowlogin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D342DBF8-17AF-4210-9039-4540FD6F5D50}|Assigment2_HotelManagement\\Assigment2_HotelManagement.csproj|solutionrelative:assigment2_hotelmanagement\\windowlogin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D342DBF8-17AF-4210-9039-4540FD6F5D50}|Assigment2_HotelManagement\\Assigment2_HotelManagement.csproj|c:\\users\\r.g.h.s\\downloads\\assigment2_hotelmanagement\\assigment2_hotelmanagement\\viewmodels\\roommanagementviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D342DBF8-17AF-4210-9039-4540FD6F5D50}|Assigment2_HotelManagement\\Assigment2_HotelManagement.csproj|solutionrelative:assigment2_hotelmanagement\\viewmodels\\roommanagementviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookingReservationManagement.xaml",
+              "DocumentMoniker": "C:\\Users\\R.G.H.S\\Downloads\\Assigment2_HotelManagement\\Assigment2_HotelManagement\\AdminView\\BookingReservationManagement.xaml",
+              "RelativeDocumentMoniker": "Assigment2_HotelManagement\\AdminView\\BookingReservationManagement.xaml",
+              "ToolTip": "C:\\Users\\R.G.H.S\\Downloads\\Assigment2_HotelManagement\\Assigment2_HotelManagement\\AdminView\\BookingReservationManagement.xaml",
+              "RelativeToolTip": "Assigment2_HotelManagement\\AdminView\\BookingReservationManagement.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-06T13:49:50.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookingReservationManagementViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\R.G.H.S\\Downloads\\Assigment2_HotelManagement\\Assigment2_HotelManagement\\ViewModels\\BookingReservationManagementViewModel.cs",
+              "RelativeDocumentMoniker": "Assigment2_HotelManagement\\ViewModels\\BookingReservationManagementViewModel.cs",
+              "ToolTip": "C:\\Users\\R.G.H.S\\Downloads\\Assigment2_HotelManagement\\Assigment2_HotelManagement\\ViewModels\\BookingReservationManagementViewModel.cs",
+              "RelativeToolTip": "Assigment2_HotelManagement\\ViewModels\\BookingReservationManagementViewModel.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACYAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T13:47:40.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WindowLogin.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\R.G.H.S\\Downloads\\Assigment2_HotelManagement\\Assigment2_HotelManagement\\WindowLogin.xaml.cs",
+              "RelativeDocumentMoniker": "Assigment2_HotelManagement\\WindowLogin.xaml.cs",
+              "ToolTip": "C:\\Users\\R.G.H.S\\Downloads\\Assigment2_HotelManagement\\Assigment2_HotelManagement\\WindowLogin.xaml.cs",
+              "RelativeToolTip": "Assigment2_HotelManagement\\WindowLogin.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T08:48:55.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WindowLogin.xaml",
+              "DocumentMoniker": "C:\\Users\\R.G.H.S\\Downloads\\Assigment2_HotelManagement\\Assigment2_HotelManagement\\WindowLogin.xaml",
+              "RelativeDocumentMoniker": "Assigment2_HotelManagement\\WindowLogin.xaml",
+              "ToolTip": "C:\\Users\\R.G.H.S\\Downloads\\Assigment2_HotelManagement\\Assigment2_HotelManagement\\WindowLogin.xaml",
+              "RelativeToolTip": "Assigment2_HotelManagement\\WindowLogin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-05T08:48:54.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RoomManagementViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\R.G.H.S\\Downloads\\Assigment2_HotelManagement\\Assigment2_HotelManagement\\ViewModels\\RoomManagementViewModel.cs",
+              "RelativeDocumentMoniker": "Assigment2_HotelManagement\\ViewModels\\RoomManagementViewModel.cs",
+              "ToolTip": "C:\\Users\\R.G.H.S\\Downloads\\Assigment2_HotelManagement\\Assigment2_HotelManagement\\ViewModels\\RoomManagementViewModel.cs",
+              "RelativeToolTip": "Assigment2_HotelManagement\\ViewModels\\RoomManagementViewModel.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T08:48:51.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\R.G.H.S\\Downloads\\Assigment2_HotelManagement\\Assigment2_HotelManagement\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Assigment2_HotelManagement\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\R.G.H.S\\Downloads\\Assigment2_HotelManagement\\Assigment2_HotelManagement\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "Assigment2_HotelManagement\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T08:48:45.771Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

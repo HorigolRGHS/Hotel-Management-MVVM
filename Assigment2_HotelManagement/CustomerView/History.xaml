@@ -1,0 +1,26 @@
+﻿<Page x:Class="Assigment2_HotelManagement.CustomerView.History"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Assigment2_HotelManagement.CustomerView"
+      xmlns:vm="clr-namespace:Assigment2_HotelManagement.ViewModels"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="History">
+    <Page.DataContext>
+        <vm:HistoryViewModel/>
+    </Page.DataContext>
+
+    <Grid Margin="20">
+        <DataGrid ItemsSource="{Binding BookingReservations}" AutoGenerateColumns="False" 
+                  IsReadOnly="True" CanUserAddRows="False" Margin="0,10">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Booking ID" Binding="{Binding BookingReservationId}" Width="*"/>
+                <DataGridTextColumn Header="Booking Date" Binding="{Binding BookingDate}" Width="*"/>
+                <DataGridTextColumn Header="Total Price" Binding="{Binding TotalPrice}" Width="*"/>
+                <DataGridTextColumn Header="Status" Binding="{Binding BookingStatus}" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Page>
